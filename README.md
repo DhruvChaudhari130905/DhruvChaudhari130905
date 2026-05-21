@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I am a full-stack web developer with MERN stacks as well as an Artificial intelligence and Machine learning expert.<br>I have expertise in programming languages like JAVA, PYTHON, C and JavaScript.
+I'm an AI and Machine Learning student who loves building great tech. Alongside my degree, I'm a full-stack developer with serious expertise in the MERN stack."<br>I have expertise in programming languages like JAVA, PYTHON, C and JavaScript.
 
 
 ## 🌐 Socials:
